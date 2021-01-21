@@ -6,7 +6,7 @@ My name is Simon Kowalak. I graduated IT school with a specialization in web app
 
 # Tools
 
-Jira - tool for issue tracking and project management for developers
+**[Jira](https://www.atlassian.com/software/jira)**, **[Testlink](https://testlink.org/)**, **[Trello](https://trello.com/)** - tools for issue tracking and project management for developers<br>
 **[ShareX](https://getsharex.com/)**, **[GIMP](https://www.gimp.org/)** - screen capture and edit programs 
 Bandicam, HandBrake, Shortcut - software record, edit, and compression video files   
 **[Pulover’s Macro Creator](https://www.macrocreator.com)** - desktop tool for automation<br>
