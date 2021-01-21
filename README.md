@@ -13,6 +13,8 @@ My name is Simon Kowalak. I graduated IT school with a specialization in web app
 * **[Postman](https://www.postman.com/)** - Testing tool for REST API<br>
 * **[JMeter](https://jmeter.apache.org/download_jmeter.cgi)**, **[Blazemeter](https://www.blazemeter.com/)** - load testing tool<br>
 * **[CMS Wordpress](https://wordpress.org/)**
+* **[Google Search Console](https://search.google.com/search-console/about)** - site health and optimisation
+* **[Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights)** - site speed and health
 
 # Tech skills
 
@@ -21,4 +23,6 @@ My name is Simon Kowalak. I graduated IT school with a specialization in web app
 * Software testing (online and mobile applications)
 * Creating test cases
 * Reporting bugs
+* Search Engine Optimisaton
+* CMS Joomla!, Wordpress
 
