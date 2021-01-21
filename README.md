@@ -7,8 +7,9 @@ My name is Simon Kowalak. I graduated IT school with a specialization in web app
 # Tools
 
 **[Jira](https://www.atlassian.com/software/jira)**, **[Testlink](https://testlink.org/)**, **[Trello](https://trello.com/)** - tools for issue tracking and project management for developers<br>
-**[ShareX](https://getsharex.com/)**, **[GIMP](https://www.gimp.org/)** - screen capture and edit programs 
-Bandicam, HandBrake, Shortcut - software record, edit, and compression video files   
+**[ShareX](https://getsharex.com/)**, **[GIMP](https://www.gimp.org/)** - screen capture and edit programs<br> 
+**[Bandicam](https://www.bandicam.com/pl/)**, **[HandBrake](https://handbrake.fr/)**, **[Shortcut](https://shotcut.org/)** - software record, edit, and compression video files   
 **[Pulover’s Macro Creator](https://www.macrocreator.com)** - desktop tool for automation<br>
-**[Postman](https://www.postman.com/)** - Testing tool for REST API
+**[Postman](https://www.postman.com/)** - Testing tool for REST API<br>
+**[JMeter](https://jmeter.apache.org/download_jmeter.cgi)**, **[Blazemeter](https://www.blazemeter.com/)** - load testing tool
 
