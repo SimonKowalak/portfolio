@@ -23,6 +23,8 @@ My name is Simon Kowalak. I graduated IT school with a specialization in web app
 * Software testing (online and mobile applications)
 * Creating test cases
 * Reporting bugs
-* Search Engine Optimisaton
+* Search Engine Optimisaton (SEO)
 * CMS Joomla!, Wordpress
+* Creating online content
+* Typography and good website usability practices
 
