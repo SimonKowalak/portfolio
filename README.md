@@ -11,7 +11,7 @@ My name is Simon Kowalak. I graduated IT school with a specialization in web app
 * **[Bandicam](https://www.bandicam.com/pl/)**, **[HandBrake](https://handbrake.fr/)**, **[Shortcut](https://shotcut.org/)** - software record, edit, and compression video files   
 * **[Pulover’s Macro Creator](https://www.macrocreator.com)** - desktop tool for automation<br>
 * **[Postman](https://www.postman.com/)** - Testing tool for REST API<br>
-* **[JMeter](https://jmeter.apache.org/download_jmeter.cgi)**, **[Blazemeter](https://www.blazemeter.com/)** - load testing tool
+* **[JMeter](https://jmeter.apache.org/download_jmeter.cgi)**, **[Blazemeter](https://www.blazemeter.com/)** - load testing tool<br>
 8 **[CMS Wordpress](https://wordpress.org/)**
 
 # Tech skills
