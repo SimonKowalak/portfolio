@@ -15,6 +15,7 @@ My name is Simon Kowalak. I graduated IT school with a specialization in web app
 * **[CMS Wordpress](https://wordpress.org/)**
 * **[Google Search Console](https://search.google.com/search-console/about)** - site health and optimisation
 * **[Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights)** - site speed and health
+* **[MySQL](https://www.mysql.com/)** - database
 
 # Tech skills
 
@@ -27,4 +28,15 @@ My name is Simon Kowalak. I graduated IT school with a specialization in web app
 * CMS Joomla!, Wordpress
 * Creating online content
 * Typography and good website usability practices
+
+# Courses
+
+* **[The Complete 2020 Software Testing Bootcamp](https://www.udemy.com/course/testerbootcamp)** 
+
+# Books
+
+* Steve Krug - Nie każ mi myśleć! O życiowym podejściu do funkcjonalności stron internetowych.
+* Jak pisać, żeby chcieli czytać (i kupować) - usability and content design Artur Jabłoński
+* Godzina dziennie z SEO - Jennifer Grappone, Gradiva Couzin
+
 
