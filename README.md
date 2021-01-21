@@ -13,3 +13,7 @@ My name is Simon Kowalak. I graduated IT school with a specialization in web app
 **[Postman](https://www.postman.com/)** - Testing tool for REST API<br>
 **[JMeter](https://jmeter.apache.org/download_jmeter.cgi)**, **[Blazemeter](https://www.blazemeter.com/)** - load testing tool
 
+# Tech skills
+
+* SQL, HTML, CSS 
+
