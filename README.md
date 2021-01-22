@@ -40,4 +40,8 @@ My name is Simon Kowalak. I graduated IT school with a specialization in web app
 * Artur Jabłoński - Jak pisać, żeby chcieli czytać (i kupować) - usability and content design 
 * Jennifer Grappone, Gradiva Couzin - Godzina dziennie z SEO
 
+# Projects
+
+**[oszczedzamwybierajacpolskie.pl](https://oszczedzamwybierajacpolskie.pl/)**
+
 
