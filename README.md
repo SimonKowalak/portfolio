@@ -42,6 +42,6 @@ My name is Simon Kowalak. I graduated IT school with a specialization in web app
 
 # Projects
 
-**[oszczedzamwybierajacpolskie.pl](https://oszczedzamwybierajacpolskie.pl/)** - Website informs about importance of consumer choices and its impact on state economy
+**[oszczedzamwybierajacpolskie.pl](https://oszczedzamwybierajacpolskie.pl/)** - website informs about importance of consumer choices and its impact on state economy
 
 
