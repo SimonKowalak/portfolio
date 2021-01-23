@@ -45,7 +45,7 @@ My name is Simon Kowalak. I graduated IT school with a specialization in web app
 **[Bugs reported for site biblio.ebookpoint.pl](https://drive.google.com/file/d/1ekUFAnMeamDHswgc3dewihkl50d9B4sU/view?usp=sharing)**
 
 
-# Projects
+# My projects
 
 **[oszczedzamwybierajacpolskie.pl](https://oszczedzamwybierajacpolskie.pl/)** - website informs about importance of consumer choices and its impact on state economy
 
