@@ -42,7 +42,7 @@ My name is Simon Kowalak. I graduated IT school with a specialization in web app
 
 # My bugs reported
 
-**[Bugs reported for biblio.ebookpoint.pl](https://drive.google.com/file/d/1VvkJRZcdRbNaferrjZ5ehFcX9BxRqhjQ/view?usp=sharing)**
+**[Bugs reported for biblio.ebookpoint.pl](https://drive.google.com/file/d/1353vcPX1lIuG9Aa0OlLDvZq4dzY0kbNY/view?usp=sharing)**
 
 
 # Projects
