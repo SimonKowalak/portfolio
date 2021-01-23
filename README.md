@@ -7,11 +7,11 @@ My name is Simon Kowalak. I graduated IT school with a specialization in web app
 # Tools
 
 * **[Jira](https://www.atlassian.com/software/jira)**, **[Testlink](https://testlink.org/)**, **[Trello](https://trello.com/)** - tools for issue tracking and project management for developers<br>
+* **[Postman](https://www.postman.com/)** - testing tool for REST API<br>
+* **[JMeter](https://jmeter.apache.org/download_jmeter.cgi)**, **[Blazemeter](https://www.blazemeter.com/)** - load testing tool<br>
 * **[ShareX](https://getsharex.com/)**, **[GIMP](https://www.gimp.org/)** - screen capture and edit programs<br> 
 * **[Bandicam](https://www.bandicam.com/pl/)**, **[HandBrake](https://handbrake.fr/)**, **[Shortcut](https://shotcut.org/)** - software record, edit, and compression video files   
 * **[Pulover’s Macro Creator](https://www.macrocreator.com)** - desktop tool for automation<br>
-* **[Postman](https://www.postman.com/)** - testing tool for REST API<br>
-* **[JMeter](https://jmeter.apache.org/download_jmeter.cgi)**, **[Blazemeter](https://www.blazemeter.com/)** - load testing tool<br>
 * **[CMS Wordpress](https://wordpress.org/)**
 * **[Google Search Console](https://search.google.com/search-console/about)** - site health and optimisation
 * **[Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights)** - site speed and health
