@@ -19,7 +19,7 @@ My name is Simon Kowalak. I graduated IT school with a specialization in web app
 
 # Tech skills
 
-* Software testing (online and mobile applications)
+* Software testing (web pages and mobile applications)
 * Creating test cases
 * Reporting bugs
 * SQL
