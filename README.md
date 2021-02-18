@@ -32,7 +32,6 @@ My name is Simon Kowalak. I graduated IT school with a specialization in web app
 # Courses
 
 * **[The Complete 2020 Software Testing Bootcamp](https://www.udemy.com/course/testerbootcamp)** 
-* **[Postman: The Complete Guide - REST API Testing](https://www.udemy.com/course/postman-the-complete-guide/)** - I'm studying now
 
 # Books
 
