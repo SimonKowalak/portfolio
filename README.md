@@ -52,4 +52,6 @@ My name is Simon Kowalak. I graduated IT school with a specialization in web app
 
 **[oszczedzamwybierajacpolskie.pl](https://oszczedzamwybierajacpolskie.pl/)** - website informs about importance of consumer choices and its impact on state economy
 
+**[77bugs.pl](http://www.77bugs.pl/shop/)** - website with online store functionality created for my testing purposes
+
 
