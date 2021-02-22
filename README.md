@@ -43,6 +43,10 @@ My name is Simon Kowalak. I graduated IT school with a specialization in web app
 
 **[Bugs reported for online store biblio.ebookpoint.pl](https://drive.google.com/file/d/1dtrYXqXqvtWZMDwdOBo6YrPue5pi8dIs/view?usp=sharing)**
 
+# My found XPath 
+
+**[Xpath(s) found for online shop: eobuwie.com.pl](https://drive.google.com/file/d/1XXp6vDhtgZC2MIaQsXqjZwyN_Ys8kUi4/view?usp=sharing)**
+
 
 # My projects
 
