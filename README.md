@@ -51,7 +51,7 @@ My name is Simon Kowalak. I graduated IT school with a specialization in web app
 
 **[ 1 Add a product and buy java (zip) file](https://drive.google.com/file/d/1tI4qYwYqDKduTeXLm2cyAFsclySyAiS4/view?usp=sharing)**
 
-**[ 1 Add a product and buy mp4 - recording file](https://drive.google.com/file/d/1idck4S3drHe1mzGEiwMosrynPGN71XBs/view?usp=sharing)**
+**[ Add a product and buy mp4 - recording file](https://drive.google.com/file/d/1idck4S3drHe1mzGEiwMosrynPGN71XBs/view?usp=sharing)**
 
 
 
