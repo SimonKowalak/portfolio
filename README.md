@@ -47,6 +47,12 @@ My name is Simon Kowalak. I graduated IT school with a specialization in web app
 
 **[XPath(s) found for online shop: eobuwie.com.pl](https://drive.google.com/file/d/1VNvsIAypVQsxRxRB87m9SBuIzlbm2xi8/view?usp=sharing)**
 
+# My automation tests with Selenium WebDriver + Java + JUnit
+
+**[ 1 Add a product and buy java (zip) file: ](https://drive.google.com/file/d/1tI4qYwYqDKduTeXLm2cyAFsclySyAiS4/view?usp=sharing)**
+**[ 1 Add a product and buy mp4 - recording file: ](https://drive.google.com/file/d/1idck4S3drHe1mzGEiwMosrynPGN71XBs/view?usp=sharing)**
+
+
 
 # My projects
 
