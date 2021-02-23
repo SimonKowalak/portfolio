@@ -16,6 +16,7 @@ My name is Simon Kowalak. I graduated IT school with a specialization in web app
 * **[Google Search Console](https://search.google.com/search-console/about)** - site health and optimisation
 * **[Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights)** - site speed and health
 * **[MySQL](https://www.mysql.com/)** - database
+* **[Eclipse](https://www.eclipse.org/)** - projects java/selenium
 
 # Tech skills
 
