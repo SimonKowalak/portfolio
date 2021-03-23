@@ -28,7 +28,7 @@ My name is Simon Kowalak. I graduated IT school with a specialization in web app
 * Search Engine Optimisaton (SEO)
 * CMS Joomla!, Wordpress
 * Creating online content
-* Typography and good website usability practices
+* Typography rules and good website usability practices
 
 # Courses
 
