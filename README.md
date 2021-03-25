@@ -40,6 +40,10 @@ My name is Simon Kowalak. I graduated IT school with a specialization in web app
 * Artur Jabłoński - Jak pisać, żeby chcieli czytać (i kupować) - usability and content design 
 * Jennifer Grappone, Gradiva Couzin - Godzina dziennie z SEO
 
+# My automation tests with Selenium WebDriver + Java
+
+**[Script test site 77bugs.pl/shop - with ecommerce funcjonality. Actually 3 tests](https://drive.google.com/file/d/1u0PeyoBR4iOWipaCRspxGvvXSSDkKCH_/view?usp=sharing)**
+
 # My bugs reported
 
 **[Bugs reported for online store biblio.ebookpoint.pl](https://drive.google.com/file/d/1dtrYXqXqvtWZMDwdOBo6YrPue5pi8dIs/view?usp=sharing)**
