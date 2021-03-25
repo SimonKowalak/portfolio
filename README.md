@@ -42,7 +42,7 @@ My name is Simon Kowalak. I graduated IT school with a specialization in web app
 
 # My automation tests with Selenium WebDriver + Java
 
-**[Script test site 77bugs.pl/shop - with ecommerce funcjonality. Actually 3 tests](https://drive.google.com/file/d/1u0PeyoBR4iOWipaCRspxGvvXSSDkKCH_/view?usp=sharing)**
+**[Site 77bugs.pl/shop - with ecommerce funcjonality. Actually 3 tests](https://drive.google.com/file/d/1u0PeyoBR4iOWipaCRspxGvvXSSDkKCH_/view?usp=sharing)**
 
 # My bugs reported
 
