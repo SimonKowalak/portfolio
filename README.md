@@ -25,6 +25,7 @@ My name is Simon Kowalak. I graduated IT school with a specialization in web app
 * Reporting bugs
 * SQL
 * HTML, CSS 
+* XML, JSON
 * Search Engine Optimisaton (SEO)
 * CMS Joomla!, Wordpress
 * Creating online content
