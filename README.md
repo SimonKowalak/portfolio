@@ -23,7 +23,7 @@ My name is Simon Kowalak. I graduated IT school with a specialization in web app
 * Software testing (web pages and mobile applications)
 * Creating test cases
 * Reporting bugs
-* Automation tests Selenium WebDriver + Java
+* Automation tests Selenium WebDriver
 * SQL
 * HTML, CSS 
 * XML, JSON
