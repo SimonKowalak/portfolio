@@ -57,7 +57,8 @@ My name is Simon Kowalak. I graduated IT school with a specialization in web app
 **[Selenium WebDriver | 9 test cases | Hard to maintain and reuse code | No design pattern](https://drive.google.com/drive/folders/1smt73DTZ11G14RDd7r7THRbHL52cwLVJ?usp=sharing)**
 
 Please notice that in this example is no Selenium WebDriver Framework use.
-This code is easy to maintain, and reusable.
+
+Code is easy to maintain, and reusable.
 
 # My bugs reported
 
