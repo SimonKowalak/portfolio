@@ -46,6 +46,13 @@ My name is Simon Kowalak. I graduated IT school with a specialization in web app
 
 **[Site 77bugs.pl/shop - with ecommerce funcjonality. Prerequisites: Selenium WebDriver, Java, TestNG](https://drive.google.com/file/d/1u0PeyoBR4iOWipaCRspxGvvXSSDkKCH_/view?usp=sharing)**
 
+# My examples of use Page Object Model and Page Factory + simple Selenium without design pattern - 9 test caases for website with online store functionality 77bugs.pl | Design patterns use
+
+**[Page Object Model | 9 test cases | Design pattern](https://drive.google.com/drive/folders/1A6z2esIytVnlU7jBC43NouP2NbEGFsCD?usp=sharing)**
+
+Please notice that in this example is no Selenium WebDriver Framework use.
+This code is easy to maintain, and reusable.
+
 # My bugs reported
 
 **[Bugs reported for online store biblio.ebookpoint.pl](https://drive.google.com/file/d/1dtrYXqXqvtWZMDwdOBo6YrPue5pi8dIs/view?usp=sharing)**
