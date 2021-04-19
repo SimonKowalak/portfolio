@@ -8,8 +8,8 @@ My name is Simon Kowalak. I graduated IT school with a specialization in web app
 
 * **[Jira](https://www.atlassian.com/software/jira)**, **[Testlink](https://testlink.org/)**, **[Trello](https://trello.com/)** - tools for issue tracking and project management for developers<br>
 * **[Selenium WebDriver + Java](https://www.selenium.dev/)** - automation testing tool
-* **[Page Object Model | POM]** design pattern
-* **[PageFactory]** design pattern
+* [Page Object Model | POM] design pattern
+* [PageFactory] design pattern
 * **[Postman](https://www.postman.com/)** - testing tool for REST API<br>
 * **[ShareX](https://getsharex.com/)**, **[GIMP](https://www.gimp.org/)** - screen capture and edit programs<br> 
 * **[Bandicam](https://www.bandicam.com/pl/)**, **[HandBrake](https://handbrake.fr/)**, **[Shortcut](https://shotcut.org/)** - software record, edit, and compression video files   
