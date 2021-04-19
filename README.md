@@ -49,7 +49,7 @@ My name is Simon Kowalak. I graduated IT school with a specialization in web app
 
 **[Page Object Model | 9 test cases | Design pattern](https://drive.google.com/drive/folders/1A6z2esIytVnlU7jBC43NouP2NbEGFsCD?usp=sharing)**
 
-**[Page Factory | 9 test cases](https://drive.google.com/drive/folders/1RWLABSl1MJVdDU3x8HfqJeO8iFUCEPUS?usp=sharing)**
+**[Page Object Model + Page Factory | 9 test cases](https://drive.google.com/drive/folders/1RWLABSl1MJVdDU3x8HfqJeO8iFUCEPUS?usp=sharing)**
 
 **[Selenium WebDriver | 9 test cases | Hard to maintain and reuse code | No design pattern](https://drive.google.com/drive/folders/1smt73DTZ11G14RDd7r7THRbHL52cwLVJ?usp=sharing)**
 
