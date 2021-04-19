@@ -49,7 +49,9 @@ My name is Simon Kowalak. I graduated IT school with a specialization in web app
 # My examples of use Page Object Model and Page Factory + simple Selenium without design pattern - 9 test caases for website with online store functionality 77bugs.pl | Design patterns use
 
 **[Page Object Model | 9 test cases | Design pattern](https://drive.google.com/drive/folders/1A6z2esIytVnlU7jBC43NouP2NbEGFsCD?usp=sharing)**
+
 **[Page Factory | 9 test cases | Design pattern](https://drive.google.com/drive/folders/1RWLABSl1MJVdDU3x8HfqJeO8iFUCEPUS?usp=sharing)**
+
 **[Selenium WebDriver | 9 test cases | Hard to maintain and reuse code | No design pattern](https://drive.google.com/drive/folders/1smt73DTZ11G14RDd7r7THRbHL52cwLVJ?usp=sharing)**
 
 Please notice that in this example is no Selenium WebDriver Framework use.
