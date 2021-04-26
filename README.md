@@ -47,11 +47,11 @@ My name is Simon Kowalak. I graduated IT school with a specialization in web app
 
 9 test caases for website with online store functionality 77bugs.pl | Design patterns use
 
-**[Page Object Model | 9 test cases | Design pattern](https://drive.google.com/drive/folders/1KrVgMD_9C9n5xYHTND46vR6c10GCtf3q?usp=sharing)**
+**[Page Object Model | 9 test cases | Design pattern](https://drive.google.com/drive/folders/1FyNhgWO_-AdKjyGOl5s2EMHI-Bd-X2-O?usp=sharing)**
 
-**[Page Object Model + Page Factory | 9 test cases](https://drive.google.com/drive/folders/12cTmbA5L0hv6Qq0_aekXAKh4l9sKytoZ?usp=sharing)**
+**[Page Object Model + Page Factory | 9 test cases](https://drive.google.com/drive/folders/1Gua6Dx_U0nsvESjykxlQlYLBEg4CYUlY?usp=sharing)**
 
-**[Selenium WebDriver | 9 test cases | Hard to maintain and reuse code | No design pattern](https://drive.google.com/drive/folders/1WpTETuHcQCXajkEPhAdhxte68-cvWx8o?usp=sharing)**
+**[Selenium WebDriver | 9 test cases | Hard to maintain and reuse code | No design pattern](https://drive.google.com/drive/folders/1wTMtvvKLhdoxeqMIZsPej8-GNctI706c?usp=sharing)**
 
 Please notice that in this example is no Selenium WebDriver Framework use.
 
