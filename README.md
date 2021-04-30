@@ -43,6 +43,8 @@ My name is Simon Kowalak. I graduated IT school with a specialization in web app
 * Artur Jabłoński - Jak pisać, żeby chcieli czytać (i kupować) - usability and content design 
 * Jennifer Grappone, Gradiva Couzin - Godzina dziennie z SEO
 
+# My Project of Selenium WebDriver + Framework use (TestNG, Log4j, ExtentReports, Maven, Jenkins) - automation tests for fake onlne store http://www.77bugs.pl/shop/
+
 # My examples of Page Object Model and Page Factory use + independent Selenium WebDriver
 
 9 test caases for website with online store functionality 77bugs.pl | Design patterns use
