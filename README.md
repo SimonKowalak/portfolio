@@ -40,7 +40,7 @@ My name is Simon Kowalak. I graduated IT school with a specialization in web app
 # Books
 
 * Steve Krug - Nie każ mi myśleć! O życiowym podejściu do funkcjonalności stron internetowych
-* Artur Jabłoński - Jak pisać, żeby chcieli czytać (i kupować) - usability and content design 
+* Artur Jabłoński - Jak pisać, żeby chcieli czytać (i kupować) - usability and content design  
 * Jennifer Grappone, Gradiva Couzin - Godzina dziennie z SEO
 
 # My Project of Selenium WebDriver + Framework use - (TestNG, Log4j, ExtentReports, Maven, Jenkins) 
