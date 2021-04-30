@@ -43,9 +43,15 @@ My name is Simon Kowalak. I graduated IT school with a specialization in web app
 * Artur Jabłoński - Jak pisać, żeby chcieli czytać (i kupować) - usability and content design 
 * Jennifer Grappone, Gradiva Couzin - Godzina dziennie z SEO
 
-# My Project of Selenium WebDriver + Framework use (TestNG, Log4j, ExtentReports, Maven, Jenkins) - automation tests for fake onlne store http://www.77bugs.pl/shop/
+# My Project of Selenium WebDriver + Framework use - automation tests for fake onlne store http://www.77bugs.pl/shop/
+(TestNG, Log4j, ExtentReports, Maven, Jenkins) 
+
+
 
 **[Project files](https://drive.google.com/drive/folders/16sGvw8uzrtWSaft-6TZxFka9WiAKeOg8?usp=sharing)**
+**[TestNG recording](https://drive.google.com/file/d/1ThlOekeior59x9g29hhewktSswv6YXjo/view?usp=sharing)**
+**[Maven recording](https://drive.google.com/file/d/109O1u-i3cEFCCnuPY8AYZLjhhiMggKt4/view?usp=sharing)**
+**[Jenkins recording](https://drive.google.com/file/d/1baSgnpTTEi6svZTgT-pZENYBRzY7fEb7/view?usp=sharing)**
 
 # My examples of Page Object Model and Page Factory use + independent Selenium WebDriver
 
