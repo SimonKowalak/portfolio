@@ -44,10 +44,9 @@ My name is Simon Kowalak. I graduated IT school with a specialization in web app
 * Jennifer Grappone, Gradiva Couzin - Godzina dziennie z SEO
 
 # My Project of Selenium WebDriver + Framework use - (TestNG, Log4j, ExtentReports, Maven, Jenkins) 
- automation tests for fake onlne store http://www.77bugs.pl/shop/ 
+Automation tests for fake onlne store http://www.77bugs.pl/shop/ 
 
-Please read PDF file below to understand project background and goal
-**(https://drive.google.com/file/d/10WHah6NtMHKLDC3Ba18j9oJIisyTj8QQ/view?usp=sharing)**
+**[Please read PDF file to understand project background and goal](https://drive.google.com/file/d/10WHah6NtMHKLDC3Ba18j9oJIisyTj8QQ/view?usp=sharing)**
 
 **[Project files](https://drive.google.com/drive/folders/16sGvw8uzrtWSaft-6TZxFka9WiAKeOg8?usp=sharing)**
 **[TestNG recording](https://drive.google.com/file/d/1ThlOekeior59x9g29hhewktSswv6YXjo/view?usp=sharing)**
