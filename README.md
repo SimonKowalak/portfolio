@@ -48,9 +48,12 @@ Automation tests for fake onlne store http://www.77bugs.pl/shop/
 
 **[Please read PDF file to understand project background and goal](https://drive.google.com/file/d/10WHah6NtMHKLDC3Ba18j9oJIisyTj8QQ/view?usp=sharing)**
 
-**[Project files](https://drive.google.com/drive/folders/16sGvw8uzrtWSaft-6TZxFka9WiAKeOg8?usp=sharing)**
+**[Project file]](https://drive.google.com/drive/folders/16sGvw8uzrtWSaft-6TZxFka9WiAKeOg8?usp=sharing)**
+
 **[TestNG recording](https://drive.google.com/file/d/1ThlOekeior59x9g29hhewktSswv6YXjo/view?usp=sharing)**
+
 **[Maven recording](https://drive.google.com/file/d/109O1u-i3cEFCCnuPY8AYZLjhhiMggKt4/view?usp=sharing)**
+
 **[Jenkins recording](https://drive.google.com/file/d/1baSgnpTTEi6svZTgT-pZENYBRzY7fEb7/view?usp=sharing)**
 
 # My examples of Page Object Model and Page Factory use + independent Selenium WebDriver
