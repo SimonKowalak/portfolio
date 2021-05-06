@@ -33,9 +33,7 @@ My name is Simon Kowalak. I graduated IT school with a specialization in web app
 * Creating online content
 * Typography rules and good website usability practices
 
-# Courses
 
-* **[The Complete 2020 Software Testing Bootcamp](https://www.udemy.com/course/testerbootcamp)** 
 
 
 
