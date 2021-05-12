@@ -26,6 +26,7 @@ My name is Simon Kowalak. I graduated IT school with a specialization in web app
 * Reporting bugs
 * Automation tests Selenium WebDriver
 * SQL
+* DevTools
 * HTML, CSS 
 * XML, JSON
 * Search Engine Optimisaton (SEO)
