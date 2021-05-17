@@ -57,7 +57,7 @@ Automation tests for fake onlne store http://www.77bugs.pl/shop/
 
 **[Page Object Model | 9 test cases | Design pattern](https://drive.google.com/drive/folders/1FyNhgWO_-AdKjyGOl5s2EMHI-Bd-X2-O?usp=sharing)**
 
-**[Page Object Model + Page Factory | 9 test cases](https://drive.google.com/drive/folders/1Gua6Dx_U0nsvESjykxlQlYLBEg4CYUlY?usp=sharing)**
+**[Page Object Model + Page Factory | 9 test cases](https://drive.google.com/drive/folders/1ZeoRn7TWZONnu6uLpBzWX7F9HmnxsrlX?usp=sharing)**
 
 **[Selenium WebDriver | 9 test cases | Hard to maintain and reuse code | No design pattern](https://drive.google.com/drive/folders/1wTMtvvKLhdoxeqMIZsPej8-GNctI706c?usp=sharing)**
 
