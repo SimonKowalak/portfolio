@@ -55,7 +55,7 @@ Automation tests for fake onlne store http://www.77bugs.pl/shop/
 
 9 test caases for website with online store functionality 77bugs.pl | Design patterns use
 
-**[Page Object Model | 9 test cases | Design pattern](https://drive.google.com/drive/folders/1FyNhgWO_-AdKjyGOl5s2EMHI-Bd-X2-O?usp=sharing)**
+**[Page Object Model | 9 test cases | Design pattern](https://drive.google.com/drive/folders/1CFx3TZo5m3pEZr-fssrBHNEFjFOUDjSs?usp=sharing)**
 
 **[Page Object Model + Page Factory | 9 test cases](https://drive.google.com/drive/folders/1ZeoRn7TWZONnu6uLpBzWX7F9HmnxsrlX?usp=sharing)**
 
