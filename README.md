@@ -39,7 +39,7 @@ My name is Simon Kowalak. I graduated IT school with a specialization in web app
 
 
 # My Project of Selenium WebDriver + Framework use - (TestNG, Log4j, ExtentReports, Maven, Jenkins) 
-Automation tests for fake onlne store http://www.77bugs.pl/shop/ 
+Automation tests for fake online store http://www.77bugs.pl/shop/ 
 
 **[Please read PDF file to understand project background and goal](https://drive.google.com/file/d/10WHah6NtMHKLDC3Ba18j9oJIisyTj8QQ/view?usp=sharing)**
 
