@@ -55,11 +55,11 @@ Automation tests for fake onlne store http://www.77bugs.pl/shop/
 
 9 test caases for website with online store functionality 77bugs.pl | Design patterns use
 
-**[Page Object Model | 9 test cases | Design pattern](https://drive.google.com/drive/folders/1CFx3TZo5m3pEZr-fssrBHNEFjFOUDjSs?usp=sharing)**
+**[Page Object Model | 9 test cases | Design pattern](https://drive.google.com/file/d/1gnd-Ksg4Ds1LIMbjStL-pYdjfBfsCeyW/view?usp=sharing)**
 
-**[Page Object Model + Page Factory | 9 test cases](https://drive.google.com/drive/folders/1ZeoRn7TWZONnu6uLpBzWX7F9HmnxsrlX?usp=sharing)**
+**[Page Object Model + Page Factory | 9 test cases](https://drive.google.com/file/d/1CWxSZtLRk3z-14XWpRm6mtDsNOEltdYn/view?usp=sharing)**
 
-**[Selenium WebDriver | 9 test cases | Hard to maintain and reuse code | No design pattern](https://drive.google.com/drive/folders/1kdRjYgJBOK1CcuuE9UcJQlHXezHjsdN1?usp=sharing)**
+**[Selenium WebDriver | 9 test cases | Hard to maintain and reuse code | No design pattern](https://drive.google.com/file/d/1sXqpWb9TqkzCY_e0oN_1M5qoCoqXimkC/view?usp=sharing)**
 
 Please notice that in this example is no Selenium WebDriver Framework use.
 
