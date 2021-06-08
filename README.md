@@ -67,7 +67,7 @@ Please notice that in this example is no Selenium WebDriver Framework use.
 
 Code is easy to maintain, and reusable.
 
-# My test scenarios/test cases for online store biblio.ebookpoint.pl
+# My test scenarios and test cases
 
 **[Test cases for 4 scenarios for online store biblio.ebookpoint.pl](https://drive.google.com/file/d/1UE5N0dG0wv918th1E46uFyEkmnqfpzvh/view?usp=sharing)**
 
