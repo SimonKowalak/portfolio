@@ -76,6 +76,8 @@ Writen test cases for functionalities:
 - password reminder
 - search
 
+Test cases are prepared for the most important for functionalities for this type of online site.
+
 # My bugs reported
 
 **[Bugs reported for online store biblio.ebookpoint.pl](https://drive.google.com/file/d/1dtrYXqXqvtWZMDwdOBo6YrPue5pi8dIs/view?usp=sharing)**
