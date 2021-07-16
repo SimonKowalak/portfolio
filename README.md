@@ -10,7 +10,6 @@ My name is Simon Kowalak. I graduated IT school with a specialization in web app
 * **[Selenium WebDriver + Java](https://www.selenium.dev/)** - automation testing tool
 * **[Page Object Model](https://www.selenium.dev/documentation/en/guidelines_and_recommendations/page_object_models/)** | POM | design pattern and **[PageFactory](https://github.com/SeleniumHQ/selenium/wiki/PageFactory)** 
 * Framework Selenium WebDriver/Java - **[TestNG](https://testng.org/doc/)** + **[Maven](https://maven.apache.org/)** + **[Jenkins](https://www.jenkins.io/)** + **[ExtentReports](https://www.extentreports.com/)** + **[Log4j](https://logging.apache.org/log4j/2.x/)**
-* **[JUnit](https://junit.org/junit5/)** with SeleniumWebDriver/Java
 * **[Postman](https://www.postman.com/)** - testing tool for REST API<br>
 * **[ShareX](https://getsharex.com/)**, **[GIMP](https://www.gimp.org/)** - screen capture and edit programs<br> 
 * **[Bandicam](https://www.bandicam.com/pl/)**, **[HandBrake](https://handbrake.fr/)**, **[Shortcut](https://shotcut.org/)** - software record, edit, and compression video files   
