@@ -52,7 +52,7 @@ Automation tests for fake online store http://www.77bugs.pl/shop/
 
 **[Jenkins recording](https://drive.google.com/file/d/1baSgnpTTEi6svZTgT-pZENYBRzY7fEb7/view?usp=sharing)**
 
-# My Project of Rest Assured + ExtentReports + TestNG Automation API Test Cases 
+# My Project of Rest Assured + TestNG + ExtentReports Automation API Test Cases 
 
 **[API tests cases verify is present SSL certificate, and is status code success for site 77bugs.pl](https://drive.google.com/drive/folders/1L9YcqNvZtTUFImSgzt-g2fo7hrTOYZNZ?usp=sharing)**
 
