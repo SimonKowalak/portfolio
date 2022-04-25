@@ -11,13 +11,7 @@ My name is Simon Kowalak. I graduated IT school with a specialization in web app
 * **[Page Object Model](https://www.selenium.dev/documentation/en/guidelines_and_recommendations/page_object_models/)** | POM | design pattern and **[PageFactory](https://github.com/SeleniumHQ/selenium/wiki/PageFactory)** 
 * Framework Selenium WebDriver/Java - **[TestNG](https://testng.org/doc/)** + **[Maven](https://maven.apache.org/)** + **[Jenkins](https://www.jenkins.io/)** + **[ExtentReports](https://www.extentreports.com/)** + **[Log4j](https://logging.apache.org/log4j/2.x/)**
 * **[Postman](https://www.postman.com/)** - testing tool for REST API<br>
-* **[ShareX](https://getsharex.com/)**, **[GIMP](https://www.gimp.org/)** - screen capture and edit programs<br> 
-* **[Bandicam](https://www.bandicam.com/pl/)**, **[HandBrake](https://handbrake.fr/)**, **[Shortcut](https://shotcut.org/)** - software record, edit, and compression video files   
-* **[Pulover’s Macro Creator](https://www.macrocreator.com)** - desktop tool for automation | **[AutoHotkey automation tool](https://www.autohotkey.com/)**
 * **[CMS Wordpress](https://wordpress.org/)**
-* **[Google Search Console](https://search.google.com/search-console/about)** - site health and optimisation
-* **[Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights)** - site speed and health
-* **[MySQL](https://www.mysql.com/)** - database
 * **[Eclipse](https://www.eclipse.org/)** - projects java/selenium
 
 # Tech skills
