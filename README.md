@@ -13,7 +13,7 @@ My name is Simon Kowalak. I graduated IT school with a specialization in web app
 * **[Postman](https://www.postman.com/)** 
 * **[SoapUI](https://www.soapui.org/)**  
 * **[CMS Wordpress](https://wordpress.org/)**
-* **[Eclipse](https://www.eclipse.org/)** - projects java/selenium
+* **[Eclipse](https://www.eclipse.org/)**, **[IntelliJ IDEA](https://www.jetbrains.com/idea/)** - IDE tool
 
 # Tech skills
 
