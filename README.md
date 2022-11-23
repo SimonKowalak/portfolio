@@ -80,10 +80,6 @@ Test cases are prepared for the most important for functionalities for this type
 
 **[Bugs reported for online store biblio.ebookpoint.pl](https://drive.google.com/file/d/1dtrYXqXqvtWZMDwdOBo6YrPue5pi8dIs/view?usp=sharing)**
 
-# My found XPath 
-
-**[XPath(s) found for online shop: eobuwie.com.pl](https://drive.google.com/file/d/1XXp6vDhtgZC2MIaQsXqjZwyN_Ys8kUi4/view?usp=sharing)**
-
 # My projects
 
 **[oszczedzamwybierajacpolskie.pl](https://oszczedzamwybierajacpolskie.pl/)** - website informs about importance of consumer choices and its impact on state economy
