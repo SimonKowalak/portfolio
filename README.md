@@ -65,22 +65,7 @@ Please notice that in this example is no Selenium WebDriver Framework use.
 
 Code is easy to maintain, and reusable.
 
-# My testing scenarios 
-
-**[Testing scenarios for site: https://biblio.ebookpoint.pl](https://drive.google.com/file/d/1Vqcsx6H5CwLjIAkbt9G_ylJZtx4p3aA_/view?usp=sharing)**
-Writen test cases for functionalities:
-- registration
-- login
-- password reminder
-- search
-
-Test cases are prepared for the most important for functionalities for this type of online site.
-
-# My bugs reported
-
-**[Bugs reported for online store biblio.ebookpoint.pl](https://drive.google.com/file/d/1dtrYXqXqvtWZMDwdOBo6YrPue5pi8dIs/view?usp=sharing)**
-
-# My projects
+# My online projects
 
 **[oszczedzamwybierajacpolskie.pl](https://oszczedzamwybierajacpolskie.pl/)** - website informs about importance of consumer choices and its impact on state economy
 
