@@ -18,7 +18,7 @@ My name is Simon Kowalak. I graduated IT school with a specialization in interne
 
 # Tech skills
 
-* Software testing (web pages and mobile applications)
+* Software testing (web, desctop and mobile applications)
 * Creating test cases
 * Reporting bugs
 * Automation tests Selenium WebDriver
