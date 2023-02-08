@@ -49,7 +49,7 @@ Automation tests for fake online store http://www.77bugs.pl/shop/
 
 # My Project of Rest Assured + TestNG + ExtentReports Automation API Test Cases 
 
-**[API tests cases verify is present SSL certificate, and is status code success for site 77bugs.pl](https://drive.google.com/drive/folders/1L9YcqNvZtTUFImSgzt-g2fo7hrTOYZNZ?usp=sharing)**
+**[API tests cases verify is present SSL certificate, and is status code success for site 77bugs.pl](https://github.com/SimonKowalak/REST-API-Automation-tests-Rest-Assured-Project)**
 
 # My examples of Page Object Model and Page Factory use + independent Selenium WebDriver
 
