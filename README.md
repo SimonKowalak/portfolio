@@ -31,8 +31,9 @@ My name is Simon Kowalak. I graduated IT school with a specialization in interne
 * Knowing typography rules and good website usability practices
 
 
+# My Project of PlayWright + JS, E2E Automation tests - GUI, REST API tests
 
-
+**[E2E test cases GUI and REST API](https://github.com/SimonKowalak/playwright-js-e2e)**
 
 # My Project of Selenium WebDriver + Framework use - (TestNG, Log4j, ExtentReports, Maven, Jenkins) 
 Automation tests for fake online store http://www.77bugs.pl/shop/ 
