@@ -15,7 +15,7 @@ My name is Simon Kowalak. I graduated IT school with a specialization in interne
 * **[SoapUI](https://www.soapui.org/)**  
 * **[CMS Wordpress](https://wordpress.org/)**
 * **[Eclipse](https://www.eclipse.org/)**, **[IntelliJ IDEA](https://www.jetbrains.com/idea/)** - IDE
-* **[GIT](https://git-scm.com/)**
+* **[GIT](https://git-scm.com/)** - basics
 
 # Tech skills
 
